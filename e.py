@@ -1,0 +1,6 @@
+out = open("out.lang", "tw+")
+out.write("=")
+out.close()
+out = open("out.lang", "tw+")
+out.write("=")
+out.close()
